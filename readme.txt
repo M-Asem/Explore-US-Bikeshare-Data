@@ -1,0 +1,13 @@
+https://stackoverflow.com/questions/48590268/pandas-get-the-most-frequent-values-of-a-column
+https://stackoverflow.com/questions/53045867/extracting-the-hour-from-a-time-column-in-pandas
+https://stackoverflow.com/questions/37625334/python-pandas-convert-month-int-to-month-name
+https://stackoverflow.com/questions/23967788/why-keyerror-0
+https://stackoverflow.com/questions/53086118/python-for-dummies-using-the-bakeshare-data
+https://stackoverflow.com/questions/38104340/indexerror-index-out-of-bounds
+https://stackoverflow.com/questions/60214194/error-in-reading-stock-data-datetimeproperties-object-has-no-attribute-week
+https://nfpdiscussions.udacity.com/t/project-1-question-3/35297
+https://nfpdiscussions.udacity.com/t/project-1-question/35263
+https://nfpdiscussions.udacity.com/t/project-1-travel-time/33849
+https://nfpdiscussions.udacity.com/t/help-getting-started-on-the-1st-project/26725
+https://nfpdiscussions.udacity.com/t/project-1-frequent-combination/35455
+https://docs.google.com/presentation/d/10RnYbC44VFdzEh7qwsZq0JEaq8Gg0kgKgS8s8Dh_8ZY/edit#slide=id.g80a2ee6475_0_0
